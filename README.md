@@ -52,15 +52,15 @@ Welcome to my GitHub digital portfolio for the Work Readiness Training Program. 
 ## 4️⃣ Create a CV
 
 ### 📂 Evidence
-- [Draft CV (PDF)](https://github.com/dominique2204/Dominique-E-Portfolio/blob/73f58669e27d07ab8eba5f8d23a1e2f801c41a21/Create%20a%20CV.jpg)
-- [CV Design Notes](#)
+- [Create a CV](https://github.com/dominique2204/Dominique-E-Portfolio/blob/73f58669e27d07ab8eba5f8d23a1e2f801c41a21/Create%20a%20CV.jpg)
+- [Create a CV 2](https://github.com/dominique2204/Dominique-E-Portfolio/blob/a2b90458ceb560ea9d3fe7fa6247220146975fed/Create%20a%20CV%202.jpg)
 
 ### 🧠 Reflection (STAR)
 
 **S**: We were required to develop a professional CV.  
-**T**: My task was to create a clear, concise, and tailored resume.  
-**A**: I followed a template, highlighted key achievements, and revised it after feedback.  
-**R**: My final CV is targeted to [industry/job], showcasing my readiness for work.
+**T**: My task was to lear, create a clear, concise, and tailored resume.  
+**A**: I followed a template that highlighted key achievements, and revised it after feedback.  
+**R**: My final CV is targeted to the IT industry showcasing my readiness for work.
 
 ---
 
