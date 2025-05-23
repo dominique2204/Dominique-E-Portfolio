@@ -52,7 +52,7 @@ Welcome to my GitHub digital portfolio for the Work Readiness Training Program. 
 ## 4️⃣ Create a CV
 
 ### 📂 Evidence
-- [Draft CV (PDF)](#)
+- [Draft CV (PDF)](https://github.com/dominique2204/Dominique-E-Portfolio/blob/73f58669e27d07ab8eba5f8d23a1e2f801c41a21/Create%20a%20CV.jpg)
 - [CV Design Notes](#)
 
 ### 🧠 Reflection (STAR)
