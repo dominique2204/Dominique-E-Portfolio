@@ -67,7 +67,7 @@ Welcome to my GitHub digital portfolio for the Work Readiness Training Program. 
 ## 5️⃣ CV Submission
 
 ### 📂 Evidence
-- [Final Submitted CV (PDF)](#)
+- [Final Submitted CV (PDF)](https://github.com/dominique2204/Dominique-E-Portfolio/blob/a83a61700493b86c2cd8a00230ecec67267cb2d7/Resume%20of%20Dominique%20Ntuli.pdf)
 - [Submission Confirmation or Screenshot](https://github.com/dominique2204/Dominique-E-Portfolio/blob/89f5c1ba1091bbc8ad2dfeb63197c02b4b2e9785/IMG_4595.jpeg)
 
 ### 🧠 Reflection 
@@ -81,9 +81,8 @@ Welcome to my GitHub digital portfolio for the Work Readiness Training Program. 
 
 ## 📎 Supporting Documents
 
-- [CV](#)
-- [Certificates](#)
-- [Training Transcript](#)
+- [CV](https://github.com/dominique2204/Dominique-E-Portfolio/blob/a83a61700493b86c2cd8a00230ecec67267cb2d7/Resume%20of%20Dominique%20Ntuli.pdf)
+- [Internship Letter](#)
 
 ---
 
