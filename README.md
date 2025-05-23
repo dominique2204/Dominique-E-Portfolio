@@ -37,7 +37,7 @@ Welcome to my GitHub digital portfolio for the Work Readiness Training Program. 
 ## 3️⃣ Personality Assessment
 
 ### 📂 Evidence
-- [Personality Assessment Report (e.g., MBTI)](#)
+- [Personality Assessment Report (e.g., MBTI)](https://github.com/dominique2204/Dominique-E-Portfolio/blob/03ae40d80c39809e4f56a2e39a92ed88be3c1209/Personality%20Assessment.jpg)
 - [Interpretation Worksheet](#)
 
 ### 🧠 Reflection (STAR)
