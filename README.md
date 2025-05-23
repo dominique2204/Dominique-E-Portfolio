@@ -23,14 +23,14 @@ Welcome to my GitHub digital portfolio for the Work Readiness Training Program. 
 
 ### 📂 Evidence
 - [Skills and Interests Report](https://github.com/dominique2204/Dominique-E-Portfolio/blob/c01e10e53f7024749864c5e81d6e3be5c799f83d/Skills%20and%20Interest.jpg)
-- [Skills and Interests Report 2 ](#)
+- [Skills and Interests Report 2 ](https://github.com/dominique2204/Dominique-E-Portfolio/blob/7e71171874c34cb9699f84a43a1f0927724881c0/Skills%20and%20Interest%202.jpg)
 
 ### 🧠 Reflection (STAR)
 
-**S**: We completed a skills and interests inventory during training.  
-**T**: I needed to evaluate my strengths and passions to guide my career choice.  
+**S**: I completed a skills and interests task.  
+**T**: I had to evaluate my strengths, weaknesses and passion to guide my career choice.  
 **A**: I filled out interest surveys and created a list of top personal and technical skills.  
-**R**: I discovered a strong interest in [e.g., problem-solving and design], helping me focus on [Career].
+**R**: I discovered a strong interest in UX Design, helping me focus on that certain career.
 
 ---
 
