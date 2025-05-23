@@ -90,5 +90,5 @@ Welcome to my GitHub digital portfolio for the Work Readiness Training Program. 
 
 **Email**: [dominiquentu@icloud.com]  
 **Contact**: 069 163 7307  
-**GitHub**: [GitHub Profile](#)
+
 
