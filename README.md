@@ -10,7 +10,7 @@ Welcome to my GitHub digital portfolio for the Work Readiness Training Program. 
 - [Career Counselling Report](https://github.com/dominique2204/Dominique-E-Portfolio/blob/f697b1a46a7454f8cae470e510a3405e808c734c/Career%20Counseling.jpg) 
 - [Career Counseling Report 2](https://github.com/dominique2204/Dominique-E-Portfolio/blob/884b96d63c77e4cebaddb227af74ad8d2a574265/Career%20Development%202.jpg)
 
-### 🧠 Reflection (STAR)
+### 🧠 Reflection 
 
 **S**: I took part in a career counselling session to gain some clarity on my future goals.  
 **T**: My task was to identify possible career paths and align them with my skills and values while doing quizzes and activities.  
@@ -25,7 +25,7 @@ Welcome to my GitHub digital portfolio for the Work Readiness Training Program. 
 - [Skills and Interests Report](https://github.com/dominique2204/Dominique-E-Portfolio/blob/c01e10e53f7024749864c5e81d6e3be5c799f83d/Skills%20and%20Interest.jpg)
 - [Skills and Interests Report 2 ](https://github.com/dominique2204/Dominique-E-Portfolio/blob/7e71171874c34cb9699f84a43a1f0927724881c0/Skills%20and%20Interest%202.jpg)
 
-### 🧠 Reflection (STAR)
+### 🧠 Reflection 
 
 **S**: I completed a skills and interests task.  
 **T**: I had to evaluate my strengths, weaknesses and passion to guide my career choice.  
@@ -40,7 +40,7 @@ Welcome to my GitHub digital portfolio for the Work Readiness Training Program. 
 - [Personality Assessment Report ](https://github.com/dominique2204/Dominique-E-Portfolio/blob/03ae40d80c39809e4f56a2e39a92ed88be3c1209/Personality%20Assessment.jpg)
 - [Personality Assessment Report 2](https://github.com/dominique2204/Dominique-E-Portfolio/blob/c13eab4082ac1b44f98464be1493ce812e50320b/Personality%20Assesment.jpg)
 
-### 🧠 Reflection (STAR)
+### 🧠 Reflection 
 
 **S**: This assessment included  a personality assessment exercise.  
 **T**: I had to analyze my personality type and understand how it affects my work style.  
@@ -55,7 +55,7 @@ Welcome to my GitHub digital portfolio for the Work Readiness Training Program. 
 - [Create a CV](https://github.com/dominique2204/Dominique-E-Portfolio/blob/73f58669e27d07ab8eba5f8d23a1e2f801c41a21/Create%20a%20CV.jpg)
 - [Create a CV 2](https://github.com/dominique2204/Dominique-E-Portfolio/blob/a2b90458ceb560ea9d3fe7fa6247220146975fed/Create%20a%20CV%202.jpg)
 
-### 🧠 Reflection (STAR)
+### 🧠 Reflection 
 
 **S**: We were required to develop a professional CV.  
 **T**: My task was to lear, create a clear, concise, and tailored resume.  
@@ -70,12 +70,12 @@ Welcome to my GitHub digital portfolio for the Work Readiness Training Program. 
 - [Final Submitted CV (PDF)](#)
 - [Submission Confirmation or Screenshot](#)
 
-### 🧠 Reflection (STAR)
+### 🧠 Reflection 
 
-**S**: The final step was submitting my CV to the training coordinator.  
+**S**: The final step was to submit my CV to the training coordinator and to companies that I would wish to intern for.  
 **T**: Ensure timely and correct submission of a professional resume.  
-**A**: I reviewed the CV format, checked for errors, and submitted it via [platform/email].  
-**R**: Submission was accepted, and I received positive feedback on its structure and clarity.
+**A**: I reviewed the CV format, checked for errors, and submitted it via Github and through email.  
+**R**: Submission was accepted, and I am still awaiting feedback on its structure and clarity.
 
 ---
 
@@ -89,7 +89,7 @@ Welcome to my GitHub digital portfolio for the Work Readiness Training Program. 
 
 ## 🔗 Let's Connect
 
-**Email**: [your@email.com]  
-**LinkedIn**: [LinkedIn Profile](#)  
+**Email**: [dominiquentu@icloud.com]  
+**Contact**: 069 163 7307  
 **GitHub**: [GitHub Profile](#)
 
