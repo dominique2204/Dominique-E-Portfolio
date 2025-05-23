@@ -82,7 +82,7 @@ Welcome to my GitHub digital portfolio for the Work Readiness Training Program. 
 ## 📎 Supporting Documents
 
 - [CV](https://github.com/dominique2204/Dominique-E-Portfolio/blob/a83a61700493b86c2cd8a00230ecec67267cb2d7/Resume%20of%20Dominique%20Ntuli.pdf)
-- [Internship Letter](#)
+- [Internship Letter](https://github.com/dominique2204/Dominique-E-Portfolio/blob/3e8f8f8d9f12310c5a8467671590bc45b43ccdb5/Multimedia%20Applications%20letters-12.pdf)
 
 ---
 
