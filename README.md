@@ -1,6 +1,6 @@
 # Dominique-E-Portfolio
 
-Welcome to my GitHub digital portfolio for the Work Readiness Training Program. This repository includes evidence and my reflections for each assessment category.
+Welcome to my GitHub digital portfolio. This repository includes evidence and my reflections for each assessment category. 
 
 ---
 
