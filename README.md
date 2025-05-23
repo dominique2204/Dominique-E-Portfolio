@@ -68,7 +68,7 @@ Welcome to my GitHub digital portfolio for the Work Readiness Training Program. 
 
 ### 📂 Evidence
 - [Final Submitted CV (PDF)](#)
-- [Submission Confirmation or Screenshot](#)
+- [Submission Confirmation or Screenshot](https://github.com/dominique2204/Dominique-E-Portfolio/blob/89f5c1ba1091bbc8ad2dfeb63197c02b4b2e9785/IMG_4595.jpeg)
 
 ### 🧠 Reflection 
 
