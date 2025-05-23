@@ -1,6 +1,6 @@
 # Dominique-E-Portfolio
 
-Welcome to my GitHub digital portfolio for the Work Readiness Training Program. This repository contains **evidence** and **reflections** for each assessment category, structured using the **STAR technique** (Situation, Task, Action, Result).
+Welcome to my GitHub digital portfolio for the Work Readiness Training Program. This repository includes evidence and my reflections for each assessment category.
 
 ---
 
@@ -8,22 +8,22 @@ Welcome to my GitHub digital portfolio for the Work Readiness Training Program. 
 
 ### 📂 Evidence
 - [Career Counselling Report](https://github.com/dominique2204/Dominique-E-Portfolio/blob/f697b1a46a7454f8cae470e510a3405e808c734c/Career%20Counseling.jpg) 
-- [Career Pathway Worksheet](#)
+- [Career Counseling Report 2](https://github.com/dominique2204/Dominique-E-Portfolio/blob/884b96d63c77e4cebaddb227af74ad8d2a574265/Career%20Development%202.jpg)
 
 ### 🧠 Reflection (STAR)
 
-**S**: I participated in a career counselling session to gain clarity on my future goals.  
-**T**: My task was to identify possible career paths and align them with my skills and values.  
-**A**: I completed personality quizzes, explored job roles, and consulted with a counsellor.  
-**R**: I gained insights into career options and chose to pursue [Your Career Path].
+**S**: I took part in a career counselling session to gain some clarity on my future goals.  
+**T**: My task was to identify possible career paths and align them with my skills and values while doing quizzes and activities.  
+**A**: I completed the personality quizzes, explored some job roles.  
+**R**: I gained insights into career options and chose to pursue UX Design.
 
 ---
 
 ## 2️⃣ Skills and Interests
 
 ### 📂 Evidence
-- [Skills Assessment Summary](#)
-- [Interest Profiler Results](#)
+- [Skills and Interests Report](#)
+- [Skills and Interests Report 2 ](#)
 
 ### 🧠 Reflection (STAR)
 
