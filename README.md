@@ -22,7 +22,7 @@ Welcome to my GitHub digital portfolio for the Work Readiness Training Program. 
 ## 2️⃣ Skills and Interests
 
 ### 📂 Evidence
-- [Skills and Interests Report](#)
+- [Skills and Interests Report](https://github.com/dominique2204/Dominique-E-Portfolio/blob/c01e10e53f7024749864c5e81d6e3be5c799f83d/Skills%20and%20Interest.jpg)
 - [Skills and Interests Report 2 ](#)
 
 ### 🧠 Reflection (STAR)
