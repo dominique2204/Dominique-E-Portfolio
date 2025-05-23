@@ -37,15 +37,15 @@ Welcome to my GitHub digital portfolio for the Work Readiness Training Program. 
 ## 3️⃣ Personality Assessment
 
 ### 📂 Evidence
-- [Personality Assessment Report (e.g., MBTI)](https://github.com/dominique2204/Dominique-E-Portfolio/blob/03ae40d80c39809e4f56a2e39a92ed88be3c1209/Personality%20Assessment.jpg)
-- [Interpretation Worksheet](#)
+- [Personality Assessment Report ](https://github.com/dominique2204/Dominique-E-Portfolio/blob/03ae40d80c39809e4f56a2e39a92ed88be3c1209/Personality%20Assessment.jpg)
+- [Personality Assessment Report 2](https://github.com/dominique2204/Dominique-E-Portfolio/blob/c13eab4082ac1b44f98464be1493ce812e50320b/Personality%20Assesment.jpg)
 
 ### 🧠 Reflection (STAR)
 
-**S**: The training included a personality assessment exercise.  
+**S**: This assessment included  a personality assessment exercise.  
 **T**: I had to analyze my personality type and understand how it affects my work style.  
-**A**: I completed the MBTI assessment and discussed results in a group session.  
-**R**: I learned that I am an [e.g., INTJ], which helps me work best in analytical and independent roles.
+**A**: I completed the assessment and discussed the results with my mentor .  
+**R**: I learned that I am an more physical worker which helps me work best in analytical and independent roles.
 
 ---
 
