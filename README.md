@@ -7,7 +7,7 @@ Welcome to my GitHub digital portfolio for the Work Readiness Training Program. 
 ## 1️⃣ Career Counselling
 
 ### 📂 Evidence
-- [Career Counselling Report](Career Counseling.jpg)
+- [Career Counselling Report](https://github.com/your-username/dominique-e-portfolio/career counseling.jpg)
 - [Career Pathway Worksheet](#)
 
 ### 🧠 Reflection (STAR)
