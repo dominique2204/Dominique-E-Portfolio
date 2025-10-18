@@ -86,10 +86,10 @@ Welcome to my GitHub digital portfolio. This repository includes evidence and my
 
 ### 🧠 Reflection 
 
-**S**: The final step was to submit my CV to the training coordinator and to companies that I would wish to intern for.  
-**T**: Ensure timely and correct submission of a professional resume.  
-**A**: I reviewed the CV format, checked for errors, and submitted it via Github and through email.  
-**R**: Submission was accepted, and I am still awaiting feedback on its structure and clarity.
+**S**: I had completed a business communication task.  
+**T**: The task was to learn about the type of language to use in a formal setting.  
+**A**: I completed my business communication tasks and quizzes  
+**R**: I recieved knowlegde on how to communicate in a formal setting .
 
 ---
 
@@ -100,10 +100,10 @@ Welcome to my GitHub digital portfolio. This repository includes evidence and my
 
 ### 🧠 Reflection 
 
-**S**: The final step was to submit my CV to the training coordinator and to companies that I would wish to intern for.  
-**T**: Ensure timely and correct submission of a professional resume.  
-**A**: I reviewed the CV format, checked for errors, and submitted it via Github and through email.  
-**R**: Submission was accepted, and I am still awaiting feedback on its structure and clarity.
+**S**: I completed an interview skills task.  
+**T**: The task was to learn how to reply and show up in an interview.  
+**A**: I completed my interview skills quizzes and tasks.  
+**R**: I have recieved knowlegde on how to dress, speak, reply in an interview.
 
 ---
 
@@ -115,9 +115,9 @@ Welcome to my GitHub digital portfolio. This repository includes evidence and my
 
 ### 🧠 Reflection 
 
-**S**: The final step was to submit my CV to the training coordinator and to companies that I would wish to intern for.  
-**T**: Ensure timely and correct submission of a professional resume.  
-**A**: I reviewed the CV format, checked for errors, and submitted it via Github and through email.  
+**S**: I have recorded a mock interview video for prospective companies and as a practice interview.  
+**T**: The task was to practice how i would respond in a real interview.  
+**A**: I completed questions from online surveys to practice for my interviews.  
 **R**: Submission was accepted, and I am still awaiting feedback on its structure and clarity.
 
 ---
@@ -129,24 +129,24 @@ Welcome to my GitHub digital portfolio. This repository includes evidence and my
 
 ### 🧠 Reflection 
 
-**S**: The final step was to submit my CV to the training coordinator and to companies that I would wish to intern for.  
-**T**: Ensure timely and correct submission of a professional resume.  
-**A**: I reviewed the CV format, checked for errors, and submitted it via Github and through email.  
-**R**: Submission was accepted, and I am still awaiting feedback on its structure and clarity.
+**S**: I completed a professional networking task.  
+**T**: The task is to learn how network in my industry .  
+**A**: I have completed my professional networking tasks and quizzes.  
+**R**: I have recieved knowlegde on how to newtork in the IT industry.
 
 ---
 
 ## 10 Workplace Etiquette
 
 ### 📂 Evidence
-- [Submission Confirmation]()
+- [Submission Confirmation](https://github.com/dominique2204/Dominique-E-Portfolio/blob/f994d4b7f7d1c3ffcc35a479d51c14e697e2f3e4/Workplace%20Etiqutte.png)
 
 ### 🧠 Reflection 
 
-**S**: The final step was to submit my CV to the training coordinator and to companies that I would wish to intern for.  
-**T**: Ensure timely and correct submission of a professional resume.  
-**A**: I reviewed the CV format, checked for errors, and submitted it via Github and through email.  
-**R**: Submission was accepted, and I am still awaiting feedback on its structure and clarity.
+**S**: I have completed a workplace Etiquette task.  
+**T**: The task is to learn how one must be in a place of work compared to how one would be in an informal place.  
+**A**: I have completed my workplace etiquette tasks and quizzes  
+**R**: I have recieved knowledge on how one must handle themselves in a place of worl.
 
 ---
 
