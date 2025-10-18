@@ -125,7 +125,7 @@ Welcome to my GitHub digital portfolio. This repository includes evidence and my
 ## 9 Professional Networking
 
 ### 📂 Evidence
-- [Submission Confirmation]()
+- [Submission Confirmation](https://github.com/dominique2204/Dominique-E-Portfolio/blob/d595c48b81acd781065a9ae9ee912710a50d59b6/Professional%20Networking.png)
 
 ### 🧠 Reflection 
 
