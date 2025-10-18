@@ -110,8 +110,8 @@ Welcome to my GitHub digital portfolio. This repository includes evidence and my
 ## 8 Mock Interview 
 
 ### 📂 Evidence
-- [Submitted interview video]()
-- [Submission Confirmation or Screenshot]()
+- [Submitted interview video](https://github.com/dominique2204/mock-interview-.git)
+- [Submission Confirmation or Screenshot](https://github.com/dominique2204/Dominique-E-Portfolio/blob/79a4d2fe97e8e592c8f9c185b112c9e480f3fd35/Mock%20Interview%20.png)
 
 ### 🧠 Reflection 
 
