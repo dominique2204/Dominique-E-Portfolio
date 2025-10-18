@@ -82,7 +82,7 @@ Welcome to my GitHub digital portfolio. This repository includes evidence and my
 ## 6 Business Communication
 
 ### 📂 Evidence
-- [Submission Confirmation](https://github.com/dominique2204/Dominique-E-Portfolio/blob/89f5c1ba1091bbc8ad2dfeb63197c02b4b2e9785/IMG_4595.jpeg)
+- [Submission Confirmation]()
 
 ### 🧠 Reflection 
 
@@ -96,7 +96,7 @@ Welcome to my GitHub digital portfolio. This repository includes evidence and my
 ## 7 Interview Skills
 
 ### 📂 Evidence
-- [Submission Confirmation or Screenshot](https://github.com/dominique2204/Dominique-E-Portfolio/blob/89f5c1ba1091bbc8ad2dfeb63197c02b4b2e9785/IMG_4595.jpeg)
+- [Submission Confirmation or Screenshot]()
 
 ### 🧠 Reflection 
 
@@ -110,8 +110,8 @@ Welcome to my GitHub digital portfolio. This repository includes evidence and my
 ## 8 Mock Interview 
 
 ### 📂 Evidence
-- [Submitted interview video](https://github.com/dominique2204/Dominique-E-Portfolio/blob/a83a61700493b86c2cd8a00230ecec67267cb2d7/Resume%20of%20Dominique%20Ntuli.pdf)
-- [Submission Confirmation or Screenshot](https://github.com/dominique2204/Dominique-E-Portfolio/blob/89f5c1ba1091bbc8ad2dfeb63197c02b4b2e9785/IMG_4595.jpeg)
+- [Submitted interview video]()
+- [Submission Confirmation or Screenshot]()
 
 ### 🧠 Reflection 
 
@@ -125,7 +125,7 @@ Welcome to my GitHub digital portfolio. This repository includes evidence and my
 ## 9 Professional Networking
 
 ### 📂 Evidence
-- [Submission Confirmation](https://github.com/dominique2204/Dominique-E-Portfolio/blob/89f5c1ba1091bbc8ad2dfeb63197c02b4b2e9785/IMG_4595.jpeg)
+- [Submission Confirmation]()
 
 ### 🧠 Reflection 
 
@@ -139,7 +139,7 @@ Welcome to my GitHub digital portfolio. This repository includes evidence and my
 ## 10 Workplace Etiquette
 
 ### 📂 Evidence
-- [Submission Confirmation](https://github.com/dominique2204/Dominique-E-Portfolio/blob/89f5c1ba1091bbc8ad2dfeb63197c02b4b2e9785/IMG_4595.jpeg)
+- [Submission Confirmation]()
 
 ### 🧠 Reflection 
 
