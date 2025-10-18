@@ -82,7 +82,7 @@ Welcome to my GitHub digital portfolio. This repository includes evidence and my
 ## 6 Business Communication
 
 ### 📂 Evidence
-- [Submission Confirmation]()
+- [Submission Confirmation](https://github.com/dominique2204/Dominique-E-Portfolio/blob/e70a19f8524cbb945ad80aef53cc6e0a1bd7bf79/Business%20Communication.png)
 
 ### 🧠 Reflection 
 
