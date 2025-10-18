@@ -96,7 +96,7 @@ Welcome to my GitHub digital portfolio. This repository includes evidence and my
 ## 7 Interview Skills
 
 ### 📂 Evidence
-- [Submission Confirmation or Screenshot]()
+- [Submission Confirmation or Screenshot](https://github.com/dominique2204/Dominique-E-Portfolio/blob/42fbf1d08d6414b3e0fddf2cc162ce891d5cbf0c/Interview%20Skills.png)
 
 ### 🧠 Reflection 
 
