@@ -79,12 +79,89 @@ Welcome to my GitHub digital portfolio. This repository includes evidence and my
 
 ---
 
+## 6 Business Communication
+
+### 📂 Evidence
+- [Final Submitted CV (PDF)](https://github.com/dominique2204/Dominique-E-Portfolio/blob/a83a61700493b86c2cd8a00230ecec67267cb2d7/Resume%20of%20Dominique%20Ntuli.pdf)
+- [Submission Confirmation or Screenshot](https://github.com/dominique2204/Dominique-E-Portfolio/blob/89f5c1ba1091bbc8ad2dfeb63197c02b4b2e9785/IMG_4595.jpeg)
+
+### 🧠 Reflection 
+
+**S**: The final step was to submit my CV to the training coordinator and to companies that I would wish to intern for.  
+**T**: Ensure timely and correct submission of a professional resume.  
+**A**: I reviewed the CV format, checked for errors, and submitted it via Github and through email.  
+**R**: Submission was accepted, and I am still awaiting feedback on its structure and clarity.
+
+---
+
+## 7 Interview Skills
+
+### 📂 Evidence
+- [Final Submitted CV (PDF)](https://github.com/dominique2204/Dominique-E-Portfolio/blob/a83a61700493b86c2cd8a00230ecec67267cb2d7/Resume%20of%20Dominique%20Ntuli.pdf)
+- [Submission Confirmation or Screenshot](https://github.com/dominique2204/Dominique-E-Portfolio/blob/89f5c1ba1091bbc8ad2dfeb63197c02b4b2e9785/IMG_4595.jpeg)
+
+### 🧠 Reflection 
+
+**S**: The final step was to submit my CV to the training coordinator and to companies that I would wish to intern for.  
+**T**: Ensure timely and correct submission of a professional resume.  
+**A**: I reviewed the CV format, checked for errors, and submitted it via Github and through email.  
+**R**: Submission was accepted, and I am still awaiting feedback on its structure and clarity.
+
+---
+
+## 8 Mock Interview 
+
+### 📂 Evidence
+- [Final Submitted CV (PDF)](https://github.com/dominique2204/Dominique-E-Portfolio/blob/a83a61700493b86c2cd8a00230ecec67267cb2d7/Resume%20of%20Dominique%20Ntuli.pdf)
+- [Submission Confirmation or Screenshot](https://github.com/dominique2204/Dominique-E-Portfolio/blob/89f5c1ba1091bbc8ad2dfeb63197c02b4b2e9785/IMG_4595.jpeg)
+
+### 🧠 Reflection 
+
+**S**: The final step was to submit my CV to the training coordinator and to companies that I would wish to intern for.  
+**T**: Ensure timely and correct submission of a professional resume.  
+**A**: I reviewed the CV format, checked for errors, and submitted it via Github and through email.  
+**R**: Submission was accepted, and I am still awaiting feedback on its structure and clarity.
+
+---
+
+## 9 Professional Networking
+
+### 📂 Evidence
+- [Final Submitted CV (PDF)](https://github.com/dominique2204/Dominique-E-Portfolio/blob/a83a61700493b86c2cd8a00230ecec67267cb2d7/Resume%20of%20Dominique%20Ntuli.pdf)
+- [Submission Confirmation or Screenshot](https://github.com/dominique2204/Dominique-E-Portfolio/blob/89f5c1ba1091bbc8ad2dfeb63197c02b4b2e9785/IMG_4595.jpeg)
+
+### 🧠 Reflection 
+
+**S**: The final step was to submit my CV to the training coordinator and to companies that I would wish to intern for.  
+**T**: Ensure timely and correct submission of a professional resume.  
+**A**: I reviewed the CV format, checked for errors, and submitted it via Github and through email.  
+**R**: Submission was accepted, and I am still awaiting feedback on its structure and clarity.
+
+---
+
+## 10 Workplace Etiquette
+
+### 📂 Evidence
+- [Final Submitted CV (PDF)](https://github.com/dominique2204/Dominique-E-Portfolio/blob/a83a61700493b86c2cd8a00230ecec67267cb2d7/Resume%20of%20Dominique%20Ntuli.pdf)
+- [Submission Confirmation or Screenshot](https://github.com/dominique2204/Dominique-E-Portfolio/blob/89f5c1ba1091bbc8ad2dfeb63197c02b4b2e9785/IMG_4595.jpeg)
+
+### 🧠 Reflection 
+
+**S**: The final step was to submit my CV to the training coordinator and to companies that I would wish to intern for.  
+**T**: Ensure timely and correct submission of a professional resume.  
+**A**: I reviewed the CV format, checked for errors, and submitted it via Github and through email.  
+**R**: Submission was accepted, and I am still awaiting feedback on its structure and clarity.
+
+---
+
 ## 📎 Supporting Documents
 
 - [CV](https://github.com/dominique2204/Dominique-E-Portfolio/blob/a83a61700493b86c2cd8a00230ecec67267cb2d7/Resume%20of%20Dominique%20Ntuli.pdf)
 - [Internship Letter](https://github.com/dominique2204/Dominique-E-Portfolio/blob/3e8f8f8d9f12310c5a8467671590bc45b43ccdb5/Multimedia%20Applications%20letters-12.pdf)
 
 ---
+
+
 
 ## 🔗 Let's Connect
 
